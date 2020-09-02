@@ -19,6 +19,7 @@ c) ¿Qué relación tiene Lochnagar mine sobre el contexto histórico?
 
 >A las 7.28 de la mañana, tras siete días de bombardeo de la artillería británica, la mina Lochnagar fue detonada por debajo de las líneas alemanas y ocho oleadas sucesivas de soldados de infantería de la 34.a División se levantaron de sus trincheras, y en líneas rectas prescritas, los oficiales al frente según lo ordenado. , partió a caminar para atacar las trincheras de la línea del frente alemana. Este iba a ser el día más sangriento en la historia militar británica.
 ## Video de la explosion de la mina
+
 [![](http://img.youtube.com/vi/YPGrrnpzB_Y/0.jpg)](http://www.youtube.com/watch?v=YPGrrnpzB_Y "Explosión de la Mina")
 
 d) ¿En que lugar en específico de Staffordshire se encuentra incialmente el protagonista?
@@ -45,7 +46,7 @@ f) ¿Cuál es la parada del tren donde se tendría que bajar actualmente para vi
     
 <img src="https://www.keele.ac.uk/media/keeleuniversity/alumni/KeeleRailMapCloseUp.jpg"/>
         
-    La estacion de Fenton
+>La estacion de Fenton
 
 g) ¿De que se trata el libro Hung Lu Meng?
 
